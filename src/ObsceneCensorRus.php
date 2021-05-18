@@ -116,7 +116,8 @@ class ObsceneCensorRus {
 	'дьябло',
 	'мандарин',
 	    	'спидран',
-	    'чаепития'
+	    'чаепития',
+	    'приспособлаемость'
     );
 
     public static function getFiltered($text, $charset = 'UTF-8') {
